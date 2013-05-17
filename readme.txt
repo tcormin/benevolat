@@ -9,7 +9,7 @@
                             FSF Lesser Gnu Public License (see lgpl.txt)
 
 ========================================================================
-
+LOL
 This project is an application generated with richfaces-archetype-simpleapp. 
 This file explains how to build and set up the project using Maven. If you
 find any issue related to RichFaces framework, please report the issue on
